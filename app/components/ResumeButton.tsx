@@ -24,7 +24,7 @@ const ResumeButton = () => {
 					alt="resume"
 					className="object-contain animate-pulse"
 				/>
-				<span className="lg:block hidden text-white">Download Resume</span>
+				<span className="lg:block hidden text-white">CV</span>
 			</button>
 		</Link>
 	);

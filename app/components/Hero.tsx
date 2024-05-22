@@ -12,12 +12,12 @@ const Hero = () => {
 					<div className="w-1 sm:h-80 h-40 violet-gradient" />
 				</div>
 				<div>
-					<h1 className="heroHeadText text-white">
-						Hi, I&apos;m <span className="text-[#915EFF] ">Om</span>
-					</h1>
+					<h5 className="heroHeadTexte text-white">
+						Salut, je suis <span className="text-[#915EFF] ">Boureima ZABRE</span>
+					</h5>
 					<p className="heroSubText">
-						A Creative Full Stack Web Developer&nbsp;
-						<br className="sm:block hidden" />& UI/UX Designer
+						Full Stack Web Developer&nbsp;
+						<br className="sm:block hidden" />& Ingénieur en réseaux et systme informatiques
 					</p>
 				</div>
 			</div>
