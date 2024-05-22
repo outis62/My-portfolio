@@ -19,20 +19,28 @@ const services = [
 		icon: "/web.webp",
 	},
 	{
-		title: "UI Designer",
+		title: "3D Developer",
 		icon: "/mobile.webp",
 	},
 	{
-		title: "UX Designer",
+		title: "System Ingeneer",
 		icon: "/backend.webp",
 	},
 	{
-		title: "Content Creator",
+		title: "Mobile Developer",
 		icon: "/creator.webp",
 	},
 ];
 
 const technologies = [
+	{
+		name: "Laravel",
+		icon: "/tech/laravel.png",
+	},
+	{
+		name: "Livewire",
+		icon: "/tech/laravel.png",
+	},
 	{
 		name: "HTML 5",
 		icon: "/tech/html.webp",
@@ -57,14 +65,14 @@ const technologies = [
 		name: "Next.JS",
 		icon: "/tech/nextjs.svg",
 	},
-	{
-		name: "Redux Toolkit",
-		icon: "/tech/redux.webp",
-	},
-	{
-		name: "Tailwind CSS",
-		icon: "/tech/tailwind.webp",
-	},
+	// {
+	// 	name: "Redux Toolkit",
+	// 	icon: "/tech/redux.webp",
+	// },
+	// {
+	// 	name: "Tailwind CSS",
+	// 	icon: "/tech/tailwind.webp",
+	// },
 	{
 		name: "Three JS",
 		icon: "/tech/threejs.webp",
@@ -74,16 +82,16 @@ const technologies = [
 		icon: "/tech/git.webp",
 	},
 	{
-		name: "figma",
-		icon: "/tech/figma.webp",
-	},
-	{
 		name: "wordpress",
 		icon: "/tech/wordpress.webp",
 	},
 	{
 		name: "bootstrap",
 		icon: "/tech/bootstrap.webp",
+	},
+	{
+		name: "Adobe XD",
+		icon: "/tech/figma.webp",
 	},
 ];
 
@@ -121,7 +129,7 @@ const testimonials = [
 		id: 1,
 		testimonial:
 			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Om Patel",
+		name: "Boureima ZABRE",
 		image: "/socialmedia/behance.svg",
 		link: "https://www.behance.net/omthecreator",
 	},
@@ -129,7 +137,7 @@ const testimonials = [
 		id: 2,
 		testimonial:
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
-		name: "Om Patel",
+		name: "Boureima ZABRE",
 		image: "/socialmedia/linkedin.svg",
 		link: "https://www.linkedin.com/in/om-patel-401068143/",
 	},
@@ -137,7 +145,7 @@ const testimonials = [
 		id: 3,
 		testimonial:
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
-		name: "Om Patel",
+		name: "Boureima ZABRE",
 		image: "/socialmedia/dribble.svg",
 		link: "https://dribbble.com/om2121",
 	},
@@ -145,7 +153,7 @@ const testimonials = [
 		id: 4,
 		testimonial:
 			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
-		name: "Om Patel",
+		name: "Boureima ZABRE",
 		image: "/socialmedia/portfolio.svg",
 		link: "https://omthecreator.netlify.app/",
 	},
@@ -153,28 +161,28 @@ const testimonials = [
 		id: 5,
 		testimonial:
 			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
-		name: "Om Patel",
+		name: "Boureima ZABRE",
 		image: "/tech/github.webp",
-		link: "https://github.com/omunite215",
+		link: "https://github.com/outis62",
 	},
 ];
 
 const projects = [
 	{
-		name: "Random Quote Generator",
+		name: "BD Offres & Démandes Enabel Sénégal",
 		description:
 			"A Fully Responsive Random Quote generating website project given by Free Code Camp while completing Front-End Libraries Certifications built using React.JS , Bootstrap CSS and HTML.",
 		tags: [
 			{
-				name: "react",
+				name: "Laravel",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "bootstrap",
+				name: "Livewire",
 				color: "pink-text-gradient",
 			},
 			{
-				name: "quoteapi",
+				name: "Bootstrap",
 				color: "orange-text-gradient",
 			},
 		],
@@ -205,46 +213,46 @@ const projects = [
 		source_code_link: "https://github.com/omunite215/React-Admin-DashBoard",
 		netlify_link: "https://reactadmindashboardbyom.netlify.app/",
 	},
-	{
-		name: "HooBank",
-		description:
-			"A responsive Bank HomePage showcasing different features such as various payment gateways integration, easy money transfer, advanced security, etc. It has a beautiful interface made using Tailwind CSS and React",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "tailwind",
-				color: "green-text-gradient",
-			},
-		],
-		image: "/projectimg/hoobank.webp",
-		source_code_link: "https://github.com/omunite215/hoobank",
-		netlify_link: "https://hoobankbyom.netlify.app/",
-	},
-	{
-		name: "Provid A Youtube Clone",
-		description:
-			"Provid is a YouTube clone project built with React, Material UI, and Tailwind CSS. The platform has been designed with a stunning dark mode that enhances the viewing experience. The user interface is intuitive and easy to navigate, ensuring that users can easily find the content they're looking for.",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "materialui",
-				color: "orange-text-gradient",
-			},
-			{
-				name: "rapidapi",
-				color: "blue-text-gradient",
-			},
-		],
-		image: "/projectimg/provid.webp",
-		source_code_link: "https://github.com/omunite215/Provid-A-YouTube-Clone",
-		netlify_link: "https://providbyom.netlify.app/",
-	},
+	// {
+	// 	name: "HooBank",
+	// 	description:
+	// 		"A responsive Bank HomePage showcasing different features such as various payment gateways integration, easy money transfer, advanced security, etc. It has a beautiful interface made using Tailwind CSS and React",
+	// 	tags: [
+	// 		{
+	// 			name: "react",
+	// 			color: "blue-text-gradient",
+	// 		},
+	// 		{
+	// 			name: "tailwind",
+	// 			color: "green-text-gradient",
+	// 		},
+	// 	],
+	// 	image: "/projectimg/hoobank.webp",
+	// 	source_code_link: "https://github.com/omunite215/hoobank",
+	// 	netlify_link: "https://hoobankbyom.netlify.app/",
+	// },
+	// {
+	// 	name: "Provid A Youtube Clone",
+	// 	description:
+	// 		"Provid is a YouTube clone project built with React, Material UI, and Tailwind CSS. The platform has been designed with a stunning dark mode that enhances the viewing experience. The user interface is intuitive and easy to navigate, ensuring that users can easily find the content they're looking for.",
+	// 	tags: [
+	// 		{
+	// 			name: "react",
+	// 			color: "blue-text-gradient",
+	// 		},
+	// 		{
+	// 			name: "materialui",
+	// 			color: "orange-text-gradient",
+	// 		},
+	// 		{
+	// 			name: "rapidapi",
+	// 			color: "blue-text-gradient",
+	// 		},
+	// 	],
+	// 	image: "/projectimg/provid.webp",
+	// 	source_code_link: "https://github.com/omunite215/Provid-A-YouTube-Clone",
+	// 	netlify_link: "https://providbyom.netlify.app/",
+	// },
 	{
 		name: "A 3D Developer Portfolio",
 		description:
@@ -268,7 +276,7 @@ const projects = [
 			},
 		],
 		image: "/projectimg/portfoliosample.webp",
-		source_code_link: "https://github.com/omunite215/portfolio",
+		source_code_link: "https://github.com/outis62/my_portfolio",
 		netlify_link: "https://portfoliobyompatel.netlify.app/",
 	},
 ];

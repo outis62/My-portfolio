@@ -17,7 +17,7 @@ const Hero = () => {
 					</h5>
 					<p className="heroSubText">
 						Full Stack Web Developer&nbsp;
-						<br className="sm:block hidden" />& Ingénieur en réseaux et systme informatiques
+						<br className="sm:block hidden" />& Ingénieur en réseaux et systèmes informatiques
 					</p>
 				</div>
 			</div>
