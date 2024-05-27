@@ -47,24 +47,26 @@ const About = () => {
 		<>
 			<motion.div variants={textVariant()}>
 				<p className="sectionSubText">Introduction</p>
-				<h2 className="styles.sectionHeadText">Overview.</h2>
+				<h2 className="styles.sectionHeadText">Aperçu.</h2>
 			</motion.div>
 
 			<motion.p
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-[3xl] leading-[30px]"
 			>
-				As a talented Front-End Web Developer and UI/UX Designer, I have honed
-				my skills in working with a variety of JavaScript libraries, including
-				React.js, Next.js and Three.js. Through my experience, I have developed
-				a deep understanding of how these libraries can be leveraged to create
-				dynamic and engaging user interfaces. In addition, I am a quick learner
-				and have worked on numerous projects using popular CSS frameworks such
-				as Tailwind and Bootstrap. I am confident in my ability to create sleek
-				and responsive designs that meet the specific needs of any project. With
-				a keen eye for detail and a passion for delivering high-quality work, I
-				am dedicated to creating beautiful and user-friendly experiences that
-				delight users.
+				En tant que talentueux développeur Web FullStack,
+				j'ai perfectionné mes compétences en travaillant avec une variété
+				de bibliothèques et technologies, notamment React.js, Next.js et Three.js.
+				Grâce à mon expérience, j'ai développé une compréhension approfondie
+				de la manière dont ces bibliothèques peuvent être exploitées pour créer
+				des interfaces utilisateur dynamiques et attrayantes. De plus,
+				j'apprends vite et j'ai travaillé sur de nombreux projets utilisant
+				des frameworks CSS populaires tels que Bootstrap.
+				J'ai confiance en ma capacité à créer des designs élégants et réactifs
+				qui répondent aux besoins spécifiques de tout projet. Avec un sens aigu
+				du détail et une passion pour fournir un travail de haute qualité,
+				je me consacre à créer des expériences belles et conviviales qui ravissent
+				les utilisateurs.
 			</motion.p>
 			<div className="mt-20 flex flex-wrap gap-10">
 				{services.map((service, index) => (

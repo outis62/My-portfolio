@@ -39,7 +39,7 @@ const technologies = [
 	},
 	{
 		name: "Livewire",
-		icon: "/tech/laravel.png",
+		icon: "/tech/livewire.png",
 	},
 	{
 		name: "HTML 5",
@@ -91,7 +91,7 @@ const technologies = [
 	},
 	{
 		name: "Adobe XD",
-		icon: "/tech/figma.webp",
+		icon: "/tech/adobexd.png",
 	},
 ];
 
@@ -192,7 +192,7 @@ const projects = [
 		netlify_link: "https://randomquotegeneratorbyom.netlify.app/",
 	},
 	{
-		name: "Admin Dashboard UI",
+		name: "Site Legrand WEB Services",
 		description:
 			"React Admin Dashboard is a stunning web application that has a beautiful User Interface and has been built using advanced JavaScript concepts, React, and Tailwind CSS which has different graphs, stats and themes.",
 		tags: [
@@ -210,8 +210,8 @@ const projects = [
 			},
 		],
 		image: "/projectimg/dashboard.webp",
-		source_code_link: "https://github.com/omunite215/React-Admin-DashBoard",
-		netlify_link: "https://reactadmindashboardbyom.netlify.app/",
+		source_code_link: "https://github.com/legrandwebservices/main-website",
+		netlify_link: "javascript:void(0)",
 	},
 	// {
 	// 	name: "HooBank",

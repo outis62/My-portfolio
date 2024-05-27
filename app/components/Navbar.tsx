@@ -42,9 +42,9 @@ const Navbar = () => {
 				>
 					<Link href="https://github.com/outis62">
 						<Image
-							src="/profil/profil_v2.png"
-							width={20}
-							height={20}
+							src="/logo.png"
+							width={80}
+							height={80}
 							alt="logo"
 							priority
 							className="object-contain"
