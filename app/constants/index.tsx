@@ -139,7 +139,7 @@ const testimonials = [
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/linkedin.svg",
-		link: "https://www.linkedin.com/in/om-patel-401068143/",
+		link: "https://www.linkedin.com/",
 	},
 	{
 		id: 3,
@@ -147,7 +147,7 @@ const testimonials = [
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/dribble.svg",
-		link: "https://dribbble.com/om2121",
+		link: "https://dribbble.com/",
 	},
 	{
 		id: 4,
@@ -188,7 +188,7 @@ const projects = [
 		],
 		image: "/projectimg/quote.webp",
 		source_code_link:
-			"https://github.com/omunite215/FCC-Random-Quote-Generator",
+			"https://svr-git.switch-maker.net/projets-enabel/offre-demande-senegal/web-app",
 		netlify_link: "https://randomquotegeneratorbyom.netlify.app/",
 	},
 	{
@@ -201,15 +201,19 @@ const projects = [
 				color: "blue-text-gradient",
 			},
 			{
-				name: "Syncfusion UI",
+				name: "type script",
 				color: "orange-text-gradient",
 			},
 			{
-				name: "tailwind",
+				name: "next js",
 				color: "green-text-gradient",
 			},
+			{
+				name: "remix js",
+				color: "pink-text-gradient",
+			},
 		],
-		image: "/projectimg/dashboard.webp",
+		image: "/projectimg/lws.png",
 		source_code_link: "https://github.com/legrandwebservices/main-website",
 		netlify_link: "javascript:void(0)",
 	},
@@ -256,7 +260,7 @@ const projects = [
 	{
 		name: "A 3D Developer Portfolio",
 		description:
-			"A responsive 3D Portfolio website which is made using Three.js a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. It has a beautiful interface made using Tailwind CSS and React.",
+			"Un site Web 3D Portfolio réactif créé à l'aide de Three.js, une bibliothèque JavaScript multi-navigateurs et une interface de programmation d'application utilisée pour créer et afficher des infographies 3D animées dans un navigateur Web utilisant WebGL. Il possède une belle interface réalisée à l’aide de Tailwind CSS et React.",
 		tags: [
 			{
 				name: "react",
@@ -275,7 +279,7 @@ const projects = [
 				color: "pink-text-gradient",
 			},
 		],
-		image: "/projectimg/portfoliosample.webp",
+		image: "/projectimg/3dprojet.png",
 		source_code_link: "https://github.com/outis62/my_portfolio",
 		netlify_link: "https://portfoliobyompatel.netlify.app/",
 	},
