@@ -55,14 +55,14 @@ const About = () => {
 				className="mt-4 text-secondary text-[17px] max-w-[3xl] leading-[30px]"
 			>
 				En tant que talentueux développeur Web FullStack,
-				j'ai perfectionné mes compétences en travaillant avec une variété
+				jai perfectionné mes compétences en travaillant avec une variété
 				de bibliothèques et technologies, notamment React.js, Next.js et Three.js.
-				Grâce à mon expérience, j'ai développé une compréhension approfondie
+				Grâce à mon expérience, jai développé une compréhension approfondie
 				de la manière dont ces bibliothèques peuvent être exploitées pour créer
 				des interfaces utilisateur dynamiques et attrayantes. De plus,
-				j'apprends vite et j'ai travaillé sur de nombreux projets utilisant
+				japprends vite et jai travaillé sur de nombreux projets utilisant
 				des frameworks CSS populaires tels que Bootstrap.
-				J'ai confiance en ma capacité à créer des designs élégants et réactifs
+				Jai confiance en ma capacité à créer des designs élégants et réactifs
 				qui répondent aux besoins spécifiques de tout projet. Avec un sens aigu
 				du détail et une passion pour fournir un travail de haute qualité,
 				je me consacre à créer des expériences belles et conviviales qui ravissent
