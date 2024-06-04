@@ -144,7 +144,7 @@ const testimonials = [
 	{
 		id: 4,
 		testimonial:
-			"Facebook est une plateforme de réseau social mondiale qui permet aux utilisateurs de se connecter avec leurs amis, leur famille et leurs communautés. Il s'agit d'un site de médias sociaux complet sur lequel les utilisateurs peuvent partager des mises à jour, des photos, des vidéos et interagir avec du contenu du monde entier.",
+			"Facebook est une plateforme de réseau social mondiale qui permet aux utilisateurs de se connecter avec leurs amis, leur famille et leurs communautés.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/facebook.svg",
 		link: "https://www.facebook.com/share/mWUZxGNnMasAsQLN/?mibextid=qi2Omg",
@@ -152,7 +152,7 @@ const testimonials = [
 	{
 		id: 5,
 		testimonial:
-			"Twitter est une plateforme de réseautage social largement utilisée qui permet aux utilisateurs de publier et d'interagir avec des messages courts appelés « tweets ». Il est connu pour son partage d'informations en temps réel et son style de communication concis, limité à 280 caractères par tweet.",
+			"Twitter est une plateforme de réseautage social largement utilisée qui permet aux utilisateurs de publier et d'interagir avec des messages courts appelés « tweets ».",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/x.svg",
 		link: "https://x.com/boureima_zabre",
