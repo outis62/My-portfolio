@@ -70,17 +70,6 @@ const Experience = () => {
 				</p>
 				<h2 className="sectionHeadText text-center">Technologies.</h2>
 			</motion.div>
-
-			{/* <div className="mt-20 flex flex-col">
-				<VerticalTimeline>
-					{experiences.map((experience, index) => (
-						<ExperienceCard
-							key={`experience-${index}`}
-							experience={experience}
-						/>
-					))}
-				</VerticalTimeline>
-			</div> */}
 		</>
 	);
 };

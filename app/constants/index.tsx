@@ -65,14 +65,6 @@ const technologies = [
 		name: "Next.JS",
 		icon: "/tech/nextjs.svg",
 	},
-	// {
-	// 	name: "Redux Toolkit",
-	// 	icon: "/tech/redux.webp",
-	// },
-	// {
-	// 	name: "Tailwind CSS",
-	// 	icon: "/tech/tailwind.webp",
-	// },
 	{
 		name: "Three JS",
 		icon: "/tech/threejs.webp",
@@ -152,7 +144,7 @@ const testimonials = [
 	{
 		id: 4,
 		testimonial:
-			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
+			"Facebook est une plateforme de réseau social mondiale qui permet aux utilisateurs de se connecter avec leurs amis, leur famille et leurs communautés. Il s'agit d'un site de médias sociaux complet sur lequel les utilisateurs peuvent partager des mises à jour, des photos, des vidéos et interagir avec du contenu du monde entier.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/facebook.svg",
 		link: "https://www.facebook.com/share/mWUZxGNnMasAsQLN/?mibextid=qi2Omg",
@@ -160,7 +152,7 @@ const testimonials = [
 	{
 		id: 5,
 		testimonial:
-			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
+			"Twitter est une plateforme de réseautage social largement utilisée qui permet aux utilisateurs de publier et d'interagir avec des messages courts appelés « tweets ». Il est connu pour son partage d'informations en temps réel et son style de communication concis, limité à 280 caractères par tweet.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/x.svg",
 		link: "https://x.com/boureima_zabre",
@@ -168,7 +160,7 @@ const testimonials = [
 	{
 		id: 6,
 		testimonial:
-			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
+			"Découvrez mes études de design et mes projets créatifs sur mon profil Instagram pour un aperçu approfondi de mes compétences et de ma vision artistique.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/instagram.svg",
 		link: "https://www.instagram.com/zabre47",
@@ -179,7 +171,7 @@ const projects = [
 	{
 		name: "BD Offres & Démandes Enabel Sénégal",
 		description:
-			"A Fully Responsive Random Quote generating website project given by Free Code Camp while completing Front-End Libraries Certifications built using Laravel, Livewire , Bootstrap CSS and HTML.",
+			"A fully responsive bid and request management web application project with front-end libraries built using Laravel, Livewire, Bootstrap CSS and HTML.",
 		tags: [
 			{
 				name: "Laravel",
@@ -228,7 +220,7 @@ const projects = [
 	{
 		name: "A 3D Developer Portfolio",
 		description:
-			"Un site Web 3D Portfolio réactif créé à l'aide de Three.js, une bibliothèque JavaScript multi-navigateurs et une interface de programmation d'application utilisée pour créer et afficher des infographies 3D animées dans un navigateur Web utilisant WebGL.",
+			"A responsive 3D Portfolio website created using Three.js, a cross-browser JavaScript library and application programming interface used to create and display animated 3D infographics in a web browser using WebGL.",
 		tags: [
 			{
 				name: "react",
@@ -241,6 +233,10 @@ const projects = [
 			{
 				name: "threejs",
 				color: "orange-text-gradient",
+			},
+			{
+				name: "next js",
+				color: "blue-text-gradient",
 			},
 			{
 				name: "emailjs",
