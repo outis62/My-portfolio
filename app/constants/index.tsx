@@ -131,7 +131,7 @@ const testimonials = [
 			"LinkedIn est une plateforme de médias sociaux axée sur les entreprises et l'emploi qui fonctionne via des sites Web et des applications mobiles.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/linkedin.svg",
-		link: "https://www.linkedin.com/",
+		link: "https://www.linkedin.com/in/boureima-zabre-932aa71b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 	},
 	{
 		id: 2,
@@ -147,7 +147,7 @@ const testimonials = [
 			"Behance est une plateforme de médias sociaux appartenant à Adobe dont l'objectif principal est de présenter et de découvrir le travail créatif.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/behance.svg",
-		link: "https://www.behance.net/boureima_zabre",
+		link: "https://www.behance.net/boureimazabre",
 	},
 	{
 		id: 4,
@@ -171,7 +171,7 @@ const testimonials = [
 			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/instagram.svg",
-		link: "https://instagramm.com/outis62",
+		link: "https://www.instagram.com/zabre47",
 	},
 ];
 
