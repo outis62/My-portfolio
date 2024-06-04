@@ -128,42 +128,50 @@ const testimonials = [
 	{
 		id: 1,
 		testimonial:
-			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Boureima ZABRE",
-		image: "/socialmedia/behance.svg",
-		link: "https://www.behance.net/omthecreator",
-	},
-	{
-		id: 2,
-		testimonial:
-			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
+			"LinkedIn est une plateforme de médias sociaux axée sur les entreprises et l'emploi qui fonctionne via des sites Web et des applications mobiles.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/linkedin.svg",
 		link: "https://www.linkedin.com/",
 	},
 	{
+		id: 2,
+		testimonial:
+			"Consultez également mon profil Github où j'ai partagé tous mes codes, du basique au avancé.",
+		name: "Boureima ZABRE",
+		image: "/tech/github.webp",
+		link: "https://github.com/outis62",
+	},
+	{
 		id: 3,
 		testimonial:
-			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
+			"Behance est une plateforme de médias sociaux appartenant à Adobe dont l'objectif principal est de présenter et de découvrir le travail créatif.",
 		name: "Boureima ZABRE",
-		image: "/socialmedia/dribble.svg",
-		link: "https://dribbble.com/",
+		image: "/socialmedia/behance.svg",
+		link: "https://www.behance.net/boureima_zabre",
 	},
 	{
 		id: 4,
 		testimonial:
-			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
+			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
 		name: "Boureima ZABRE",
-		image: "/socialmedia/portfolio.svg",
-		link: "https://omthecreator.netlify.app/",
+		image: "/socialmedia/facebook.svg",
+		link: "https://facebook.com/",
 	},
 	{
 		id: 5,
 		testimonial:
-			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
+			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
 		name: "Boureima ZABRE",
-		image: "/tech/github.webp",
-		link: "https://github.com/outis62",
+		image: "/socialmedia/x.svg",
+		link: "https://x.com/boureima_zabre",
+	},
+	{
+		id: 6,
+		testimonial:
+			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
+		name: "Boureima ZABRE",
+		image: "/socialmedia/instagram.svg",
+		link: "https://instagramm.com/outis62",
 	},
 ];
 
