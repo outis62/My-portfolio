@@ -155,7 +155,7 @@ const testimonials = [
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/facebook.svg",
-		link: "https://facebook.com/",
+		link: "https://www.facebook.com/share/KyEZzi6pfFTkBmdd/?mibextid=qi2Omg",
 	},
 	{
 		id: 5,
