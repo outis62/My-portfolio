@@ -13,7 +13,7 @@ const ResumeButton = () => {
 				className=" font-medium text-center px-3 py-3 flex gap-1 justify-center rounded-md transition ease-in-out delay-150 bg-[#915EFF] hover:-translate-y-1 hover:scale-110 hover:bg-purple-600 duration-300"
 				onClick={() =>
 					alert(
-						"Now you will see a Mega.nz link. Click on download to download the Resume in PDF Format. Thanks for visit!!",
+						"Vous verrez maintenant un lien Mega.nz. Cliquez sur télécharger pour télécharger le CV au format PDF. Merci pour la visite !!",
 					)
 				}
 			>

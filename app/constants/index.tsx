@@ -155,7 +155,7 @@ const testimonials = [
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
 		name: "Boureima ZABRE",
 		image: "/socialmedia/facebook.svg",
-		link: "https://www.facebook.com/share/KyEZzi6pfFTkBmdd/?mibextid=qi2Omg",
+		link: "https://www.facebook.com/share/mWUZxGNnMasAsQLN/?mibextid=qi2Omg",
 	},
 	{
 		id: 5,
@@ -179,7 +179,7 @@ const projects = [
 	{
 		name: "BD Offres & Démandes Enabel Sénégal",
 		description:
-			"A Fully Responsive Random Quote generating website project given by Free Code Camp while completing Front-End Libraries Certifications built using React.JS , Bootstrap CSS and HTML.",
+			"A Fully Responsive Random Quote generating website project given by Free Code Camp while completing Front-End Libraries Certifications built using Laravel, Livewire , Bootstrap CSS and HTML.",
 		tags: [
 			{
 				name: "Laravel",
@@ -225,50 +225,10 @@ const projects = [
 		source_code_link: "https://github.com/legrandwebservices/main-website",
 		netlify_link: "javascript:void(0)",
 	},
-	// {
-	// 	name: "HooBank",
-	// 	description:
-	// 		"A responsive Bank HomePage showcasing different features such as various payment gateways integration, easy money transfer, advanced security, etc. It has a beautiful interface made using Tailwind CSS and React",
-	// 	tags: [
-	// 		{
-	// 			name: "react",
-	// 			color: "blue-text-gradient",
-	// 		},
-	// 		{
-	// 			name: "tailwind",
-	// 			color: "green-text-gradient",
-	// 		},
-	// 	],
-	// 	image: "/projectimg/hoobank.webp",
-	// 	source_code_link: "https://github.com/omunite215/hoobank",
-	// 	netlify_link: "https://hoobankbyom.netlify.app/",
-	// },
-	// {
-	// 	name: "Provid A Youtube Clone",
-	// 	description:
-	// 		"Provid is a YouTube clone project built with React, Material UI, and Tailwind CSS. The platform has been designed with a stunning dark mode that enhances the viewing experience. The user interface is intuitive and easy to navigate, ensuring that users can easily find the content they're looking for.",
-	// 	tags: [
-	// 		{
-	// 			name: "react",
-	// 			color: "blue-text-gradient",
-	// 		},
-	// 		{
-	// 			name: "materialui",
-	// 			color: "orange-text-gradient",
-	// 		},
-	// 		{
-	// 			name: "rapidapi",
-	// 			color: "blue-text-gradient",
-	// 		},
-	// 	],
-	// 	image: "/projectimg/provid.webp",
-	// 	source_code_link: "https://github.com/omunite215/Provid-A-YouTube-Clone",
-	// 	netlify_link: "https://providbyom.netlify.app/",
-	// },
 	{
 		name: "A 3D Developer Portfolio",
 		description:
-			"Un site Web 3D Portfolio réactif créé à l'aide de Three.js, une bibliothèque JavaScript multi-navigateurs et une interface de programmation d'application utilisée pour créer et afficher des infographies 3D animées dans un navigateur Web utilisant WebGL. Il possède une belle interface réalisée à l’aide de Tailwind CSS et React.",
+			"Un site Web 3D Portfolio réactif créé à l'aide de Three.js, une bibliothèque JavaScript multi-navigateurs et une interface de programmation d'application utilisée pour créer et afficher des infographies 3D animées dans un navigateur Web utilisant WebGL.",
 		tags: [
 			{
 				name: "react",

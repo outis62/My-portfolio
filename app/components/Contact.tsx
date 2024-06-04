@@ -43,7 +43,7 @@ const Contact = () => {
 			.then(() => {
 				setLoading(false);
 				alert(
-					"A humble thanks for reaching me out. I will respond to you as soon as possible.",
+					"Un humble merci de m'avoir contacté. Je vous répondrai dans les plus brefs délais.",
 				);
 				setForm({
 					name: "",
@@ -53,7 +53,7 @@ const Contact = () => {
 			})
 			.catch((error) => {
 				setLoading(false);
-				alert("Sorry!! Something went wrong!!");
+				alert("Désolé!! Le message n'a pas pu Être envoyé !!");
 			});
 	};
 
