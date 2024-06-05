@@ -29,8 +29,8 @@ const Contact = () => {
 		setLoading(true);
 		emailjs
 			.send(
-				"service_91ssn8g",
-				"template_jjegxdr",
+				"service_hz7l3lb",
+				"template_1qjy16r",
 				{
 					from_name: form.name,
 					to_name: "Boureima ZABRE",
@@ -38,7 +38,7 @@ const Contact = () => {
 					to_email: "zabreboureima236@gmail.com",
 					message: form.message,
 				},
-				"VeFeVdEHL9F9_i6xp",
+				"m4qmPTBwNORsd5IXJ",
 			)
 			.then(() => {
 				setLoading(false);
@@ -53,7 +53,7 @@ const Contact = () => {
 			})
 			.catch((error) => {
 				setLoading(false);
-				alert("Désolé!! Le message n'a pas pu Être envoyé !!");
+				alert("Veuillez confirmer l'envoi de votre message !!");
 			});
 	};
 
